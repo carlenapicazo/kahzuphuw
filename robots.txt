@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://checiemip.jherrman.com/sitemap.xml
